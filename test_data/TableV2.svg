@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 793.7007874015749 1122.5196850393702"
+   width="793.7007874015749"
+   height="1122.5196850393702"
+   version="1.1"
+   id="svg3877"
+   sodipodi:docname="TableV2.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3879"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.29732611"
+     inkscape:cx="-1138.4806"
+     inkscape:cy="1659.7937"
+     inkscape:window-width="2560"
+     inkscape:window-height="1387"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3875" />
+  <desc
+     id="desc3833">TableV2.dxf - scale = 25.400000, origin = (0.000000, 0.000000), method = file</desc>
+  <defs
+     id="defs3847">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path3835" />
+    </marker>
+    <pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path3838" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path3840" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path3842" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE" />
+    <symbol
+       id="*PAPER_SPACE" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="0"
+     id="g3875">
+    <path
+       d="M 0.000000,1170.519687 L 0.000000,1125.879685 A 3.360000,3.360000 0.0 0 1 3.360000,1122.519685 L 324.026928,1122.519685 L 324.026928,1110.999685 L 372.026928,1110.999685 L 372.026928,1122.519685 L 441.600015,1122.519685 L 441.600015,1146.519685 L 460.800015,1146.519685 L 460.800015,1122.519685 L 480.000015,1122.519685 L 480.000015,1161.298626 A 9.600000,9.600000 0.0 0 1 470.400015,1170.898626 L 278.041979,1170.898626 A 256.067739,256.067739 0.0 0 0 47.984524,1314.519691 L 39.050551,1314.519691 A 3.023622,3.023622 0.0 0 1 36.026928,1311.496069 L 36.026928,1170.898626 L 28.800001,1170.898626 L 28.800001,1390.232503 A 9.600000,9.600000 0.0 0 1 11.657144,1396.170964 A 54.399989,54.399989 0.0 0 1 0.000000,1362.519693 L 0.000000,1355.319682 L 12.480000,1355.319682 L 12.480000,1343.319682 L 0.000000,1343.319682 L 0.000000,1170.519687 z"
+       style="fill:none;stroke:#000000"
+       id="path3849" />
+    <path
+       d="M 298.966193,1751.807983 L 298.966193,1802.256906 L 298.966193,1850.256906 L 250.966193,1850.256906 L 250.966193,1783.490236 A 295.680000,295.680000 0.0 1 1 579.070247,1739.170857 L 596.850590,1803.453128 L 550.587682,1816.249353 L 537.791458,1769.986445 L 524.348292,1721.384613 A 247.680000,247.680000 0.0 1 0 298.966193,1751.807983 z"
+       style="fill:none;stroke:#000000"
+       id="path3853" />
+    <path
+       d="M 286.966193,1826.256906 A 12.000000,12.000000 0.000000 0, 0 262.966193,1826.256906 A 12.000000,12.000000 0.000000 0, 0 286.966193,1826.256906 z"
+       style="fill:none;stroke:#000000"
+       id="path3855" />
+    <path
+       d="M 576.622825,1787.340513 A 12.000000,12.000000 0.000000 0, 0 552.622825,1787.340513 A 12.000000,12.000000 0.000000 0, 0 576.622825,1787.340513 z"
+       style="fill:none;stroke:#000000"
+       id="path3857" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 720 1122.52 L 720 1890.52"
+       id="path3859" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 720 1890.52 L 1104 1225.41"
+       id="path3861" />
+    <path
+       d="M 1103.999983,1225.412173 A 767.999988,767.999988 0.000000 0 0 719.999989,1122.519685"
+       style="fill:none;stroke:#000000"
+       id="path3863" />
+    <path
+       d="M 880.403229,1263.220506 L 891.994339,1266.326334 L 879.571025,1312.690774 L 867.979915,1309.584945 L 880.403229,1263.220506 z"
+       style="fill:none;stroke:#000000"
+       id="path3865" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 880.403 1263.22 L 879.571 1312.69"
+       id="path3867" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 879.987 1287.96 L 867.98 1309.58"
+       id="path3869" />
+    <path
+       d="M 0.000000,964.119681 L 1262.400000,964.119681 A 9.600000,9.600000 0.0 0 1 1272.000000,973.719681 L 1272.000000,1002.519681 A 9.600000,9.600000 0.0 0 1 1262.400000,1012.119681 L 1235.520001,1012.119681 L 1235.520001,988.119681 L 1216.320000,988.119681 L 1216.320000,1012.119681 L 0.000000,1012.119681 L 0.000000,1002.140182 L -42.240000,1002.140182 A 5.760000,5.760000 0.0 0 1 -48.000000,996.380182 L -48.000000,983.900182 A 5.760000,5.760000 0.0 0 1 -42.240000,978.140182 L 0.000000,978.140182 L 0.000000,964.119681 z"
+       style="fill:none;stroke:#000000"
+       id="path3871" />
+    <path
+       d="M 420.026928,1134.519685 L 400.826928,1134.519685 L 400.826928,1158.519685 L 420.026928,1158.519685 L 420.026928,1134.519685 z"
+       style="fill:none;stroke:#000000"
+       id="path3873" />
+  </g>
+</svg>
